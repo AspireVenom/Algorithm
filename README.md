@@ -1,2 +1,2 @@
 # Algorithm
-a algorithm for randomly making extensoins and roads ect.
+a algorithm for randomly making extensions and roads ect.
